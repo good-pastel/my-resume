@@ -1,6 +1,6 @@
 # my_portfolio
 
-> [[my-portfolio](https://good-pastel.github.io/my-portfolio)]
+> [[my-portfolio](https://good-pastel.github.io/my-resume)]
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
