@@ -1,4 +1,4 @@
-# my_portfolio
+# my_resume
 
 > [[my-resume](https://good-pastel.github.io/my-resume)]
 
